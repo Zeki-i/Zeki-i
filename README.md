@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I am Ahmet Zeki Aslan and I am 19 years old. I am a freshman CS student in Bilkent University.
 
 <!--
 **Zeki-i/Zeki-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
